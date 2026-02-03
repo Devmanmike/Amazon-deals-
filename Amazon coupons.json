@@ -3,9 +3,10 @@
     {
       "title": "Special Amazon Deal",
       "description": "Click to view this Amazon deal",
-      "category": "Electronics",  // or any category you like
-      "expires": "2026-03-31",   // set an expiration date
-      "link": "https://a.co/d/06HbdpGP"
+      "category": "Electronics",
+      "expires": "2026-03-31",
+      "link": "https://a.co/d/06HbdpGP",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61T9YcH9lDL._AC_SL1500_.jpg"
     }
   ]
 }
