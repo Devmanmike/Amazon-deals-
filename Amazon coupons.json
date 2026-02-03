@@ -1,0 +1,11 @@
+{
+  "coupons": [
+    {
+      "title": "Special Amazon Deal",
+      "description": "Click to view this Amazon deal",
+      "category": "Electronics",  // or any category you like
+      "expires": "2026-03-31",   // set an expiration date
+      "link": "https://a.co/d/06HbdpGP"
+    }
+  ]
+}
