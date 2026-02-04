@@ -15,6 +15,14 @@
       "expires": "2026-04-15",
       "link": "https://a.co/d/0eDbH9q1",
       "image": "https://m.media-amazon.com/images/I/51h2hWEcU0L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Amazon Gadget Offer",
+      "description": "Exclusive deal on a must-have gadget",
+      "category": "Electronics",
+      "expires": "2026-04-10",
+      "link": "https://a.co/d/09G5CwI0",
+      "image": "https://m.media-amazon.com/images/I/51h2hWEcU0L._AC_UF1000,1000_QL80_.jpg"
     }
   ]
 }
